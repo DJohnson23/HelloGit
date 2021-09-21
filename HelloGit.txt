@@ -1,0 +1,2 @@
+#HelloGit text file
+echo "Hello Git"
