@@ -1,2 +1,3 @@
 #HelloGit text file
 echo "Hello Git"
+echo "Hello Git again"
