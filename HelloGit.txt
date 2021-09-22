@@ -2,3 +2,4 @@
 echo "Hello Git"
 echo "Change Line Locally"
 echo "Change on Git"
+echo "Hello from vs"
